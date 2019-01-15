@@ -1,0 +1,4 @@
+framework module TimCalendar {
+  header "TimCalendar-Swift.h"
+  requires objc
+}
